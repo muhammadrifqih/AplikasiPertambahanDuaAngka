@@ -14,6 +14,6 @@ Hasil Screnshoot
 
 ![image](https://github.com/user-attachments/assets/802293f8-1bb9-4148-a8d2-48cd5c026b50)
 
-![image](https://github.com/user-attachments/assets/e643acdf-3a0c-4003-9c32-98494c771d90)
+
 
 
