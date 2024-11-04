@@ -45,11 +45,11 @@ public class PertambahanDuaAngka extends javax.swing.JFrame {
 
         jLabel2.setText("Ayo hitung dengan memasukan angka pada colom di bawah");
 
-        jTextField1.setText("jTextField1");
-
-        jTextField2.setText("jTextField2");
-
-        jTextField3.setText("jTextField3");
+        jTextField2.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jTextField2ActionPerformed(evt);
+            }
+        });
 
         jLabel3.setText("+");
 
@@ -163,6 +163,10 @@ public class PertambahanDuaAngka extends javax.swing.JFrame {
         jTextField2.setText("");
         jTextField3.setText("");
     }//GEN-LAST:event_jButton2ActionPerformed
+
+    private void jTextField2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField2ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jTextField2ActionPerformed
 
     /**
      * @param args the command line arguments
